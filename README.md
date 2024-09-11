@@ -1,1 +1,2 @@
-# Disease_Diagnosis_Model
+## Disease_Diagnosis_Model
+#### Developed a machine learning model for disease diagnosis utilizing the Random Forest Classifier with hyperparameter tuning through GridSearchCV to optimize model performance. Trained on a comprehensive medical dataset with a wide range of features, achieving a high accuracy of 97.62% on the test set. Key tasks involved comprehensive data preprocessing, rigorous model training, fine-tuning through extensive hyperparameter optimization, and developing an interactive tool for real-time disease prediction based on user input of symptoms.
